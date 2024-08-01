@@ -48,11 +48,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conectate conmigo 🤝 </h3>
-
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/baltasar-lomello-420119225/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Balti2003">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -63,7 +61,6 @@ You can use the website to generate badges: https://shields.io/
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@baalti_5310">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </div>
-
 
 -----
 
