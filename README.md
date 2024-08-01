@@ -45,11 +45,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 -----
-Creditos: [Balti2003](https://github.com/Balti2003)
 
-Editado por ultima vez: 01/08/2024
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conectate conmigo 🤝 </h3>
 
 <p align="center">
 
@@ -70,5 +68,11 @@ Editado por ultima vez: 01/08/2024
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+</div>
 
+
+-----
+
+Creditos: [Balti2003](https://github.com/Balti2003)
+
+Editado por ultima vez: 01/08/2024
