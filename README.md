@@ -15,9 +15,9 @@ You can use the website to generate badges: https://shields.io/
 **Sobre mi:**
 
 - Actualmente estoy estudiando la carrera Ingenieria en sistemas y realizando el Máster de desarrollo Full-stack de  __[Conquerblocks](https://app.conquerblocks.com)__.
-- Estoy buscando colaborar en cualquier proyecto para aprender cada vez más!
-- Pregúntame sobre cualquier cosa, estoy feliz de ayudar.
-- Dato curioso: Me encanta este mundo del desarrollo, y quiero aprender todo lo que pueda.
+- Estoy buscando colaborar en cualquier proyecto, ademas estoy realizando mis propios proyectos para aprender cada vez más!
+- Pregúntame sobre cualquier cosa, estoy disponible para ayudarte.
+- Dato curioso: Me encanta el mundo del desarrollo, quiero aprender de todo y ser un profesional.
 - Como contactarme: __baltasarlomello@live.com / baltasarlomello2015@gmail.com__
 
 ---
@@ -47,7 +47,7 @@ You can use the website to generate badges: https://shields.io/
 -----
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conectate conmigo 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactate conmigo 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/baltasar-lomello-420119225/">
