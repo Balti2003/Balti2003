@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)]()
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Balti2003)
-[![Linkedin](https://www.linkedin.com/in/baltasar-lomello-420119225/)]()
+[![Linkedin]("https://img.icons8.com/doodle/40/000000/linkedin--v2.png")](https://www.linkedin.com/in/baltasar-lomello-420119225/)
 
 &nbsp;
 
