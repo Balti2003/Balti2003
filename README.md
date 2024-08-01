@@ -1,6 +1,8 @@
 <!-- Your title -->
 ## Hola, Soy Baltasar Lomello!!
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
