@@ -7,7 +7,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://balti2003.github.io/Proyecto_portfolio_web/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Balti2003)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/baltasar-lomello-420119225/)
 
@@ -72,4 +72,4 @@ You can use the website to generate badges: https://shields.io/
 
 Creditos: [Balti2003](https://github.com/Balti2003)
 
-Editado por ultima vez: 01/08/2024
+Editado por ultima vez: 18/02/2026
