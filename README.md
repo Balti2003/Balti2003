@@ -62,10 +62,6 @@ You can use the website to generate badges: https://shields.io/
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/balti.lomello">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BaltasarLomello">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@baalti_5310">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </div>
 
 -----
