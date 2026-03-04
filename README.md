@@ -16,8 +16,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Sobre mi:**
 
-- Actualmente estoy estudiando la carrera Ingenieria en sistemas y realizando el Máster de desarrollo Full-stack de  __[Conquerblocks](https://www.conquerblocks.com)__.
-- Estoy buscando colaborar en cualquier proyecto, ademas estoy realizando mis propios proyectos para aprender cada vez más!
+- Actualmente soy Analista en Sistemas y estoy estudiando la carrera Ingenieria en sistemas, ademas estoy realizando el Máster de desarrollo Full-stack de  __[Conquerblocks](https://www.conquerblocks.com)__.
+- Estoy buscando colaborar en cualquier proyecto, tambien estoy realizando mis propios proyectos para aprender cada vez más!
 - Pregúntame sobre cualquier cosa, estoy disponible para ayudarte.
 - Dato curioso: Me encanta el mundo del desarrollo, quiero aprender de todo y ser un profesional.
 - Como contactarme: __baltasarlomello@live.com / baltasarlomello2015@gmail.com__
